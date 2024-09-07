@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Love Message</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f5f5f5;
+            font-family: Arial, sans-serif;
+        }
+        .message {
+            text-align: center;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #ff6f61;
+        }
+    </style>
+</head>
+<body>
+    <div class="message">
+        <h1>CONGRATS!!</h1>
+        <p>you did a good job there so keep it up and good luck to every matches. im so proud of you, really, so do your best! make sure that you're taking a proper rest after a tiring match, 😉.</p>
+        <p>congrats again and goodluck!!</p>
+        <p>username_DEX</p>
+    </div>
+</body>
+</html>
